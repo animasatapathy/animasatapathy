@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anima Satapathy</h1>
-<h3 align="center">A passionate software engineer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <img  aling="right" alt="coding" width="1000" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
